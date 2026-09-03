@@ -1,0 +1,6 @@
+수채화 이미지 프롬프트.md ﻿
+
+(클로드 입력 프롬프트) 1960년대 올드샹송 플리에 들어갈 수채화 풍의 여성 주인공 이미지 프롬프트 만들어줘. 
+﻿
+캐릭터 고정 블록 ﻿
+A young French woman in her mid-twenties, soft chestnut bob haircut with a side part, gentle almond eyes, subtle red lips, wearing a cream trench coat over a navy turtleneck, thin silk scarf in muted burgundy
